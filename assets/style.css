@@ -147,3 +147,4 @@ footer { text-align: center; font-size: .95rem; color: var(--muted); padding: 1.
   display: inline-block; font: 600 .95rem "Cinzel", serif; letter-spacing: .08em; text-decoration: none;
   color: #F4EEE0; background: var(--ink); padding: .6rem 1.2rem; border-radius: 2px;
 }
+.crumb { font: 500 .8rem "Cinzel", serif; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
